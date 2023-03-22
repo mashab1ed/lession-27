@@ -1,0 +1,21 @@
+.title {
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 4rem;
+
+}
+
+
+
+.title__text {
+    animation: text-gr 3s infinite alternate;
+    color: #000;
+    background: linear-gradient(45deg, #333, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+
+
+
+}
